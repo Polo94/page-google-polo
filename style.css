@@ -9,14 +9,20 @@ li
 header
 {
 font-size: 16px;
+margin-right:25px;
+margin-top: 25px;
 }
 
 #logo
 {
-width: 100%;
-height: 40%;
+width: 70%;
+height: 25%;
 }
 
+input
+{
+	box-shadow: 3px 3px 6px #e7e7e7;
+}
 .carrés
 {
 width: 20px;
@@ -37,7 +43,7 @@ nav
 
 footer
 {
-
+	
    margin-left: 20px; /* Half the width */
 
 
@@ -52,8 +58,14 @@ padding-top:50px;
 height:50px;
 
 }
-p{
-	
-	background-color: #CCC;
-}
 
+p
+{
+	color: grey;
+	background-color: #e7e7e7;
+	font-size: 16px
+}
+.droite
+{
+text-align: right;
+}
